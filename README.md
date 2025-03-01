@@ -1,4 +1,4 @@
-# Pontryagin Neural Operator for Solving General-Sum Differential Games with Parametric State Constraints
+# Parametric Value Approximation for General-sum Differential Games with State Constraints
 <br>
 Lei Zhang,
 Mukesh Ghimire, 
